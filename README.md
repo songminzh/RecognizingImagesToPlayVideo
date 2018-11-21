@@ -9,8 +9,7 @@ ARKit为iOS系统提供了对图像的识别功能。可通过检测用户环境
 
 > Framework：ARkit
 
-`注意`
->在本项目中，由于要用到相机，所以需要到info.plist中添加Privacy - Camera Usage Description
+`注意:在本项目中，由于要用到相机，所以需要到info.plist中添加Privacy - Camera Usage Description`
 
 至此，我们就能简单地实现利用ARKit识别图像并播放对应的视频。
 
