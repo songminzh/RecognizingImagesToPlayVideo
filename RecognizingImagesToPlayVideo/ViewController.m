@@ -17,22 +17,6 @@
 
 @implementation ViewController
 
-- (AVPlayer *)player {
-    if (!_player) {
-        AVPlayerItem *playerItem = [self getPlayerItem:0];
-        _player = [[AVPlayer alloc] initWithPlayerItem:playerItem];
-    }
-    return _player;
-}
-
-- (AVPlayerItem *)getPlayerItem:(int)videoIndex {
-    NSString *urlStr = [[NSBundle mainBundle] pathForResource:@"videoName" ofType:@"mp4"];
-    NSURL *url = [NSURL fileURLWithPath:urlStr];
-    
-    AVPlayerItem *playerItem = [AVPlayerItem playerItemWithURL:url];
-    return playerItem;
-}
-
 #pragma mark  - Life Circle
 
 - (void)viewDidLoad {

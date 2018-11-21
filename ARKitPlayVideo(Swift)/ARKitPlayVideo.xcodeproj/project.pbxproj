@@ -7,31 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		001C3EB321A40D5A0023A1C4 /* begonia.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 001C3EB221A40D590023A1C4 /* begonia.mp4 */; };
-		00770C5621A3EB9D00C9B96C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 00770C5521A3EB9D00C9B96C /* AppDelegate.m */; };
-		00770C5921A3EB9D00C9B96C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 00770C5821A3EB9D00C9B96C /* ViewController.m */; };
-		00770C5C21A3EB9D00C9B96C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00770C5A21A3EB9D00C9B96C /* Main.storyboard */; };
-		00770C6121A3EBA700C9B96C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00770C5F21A3EBA700C9B96C /* LaunchScreen.storyboard */; };
-		00770C6421A3EBA700C9B96C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 00770C6321A3EBA700C9B96C /* main.m */; };
-		00770C6C21A3EDB800C9B96C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00770C6B21A3EDB800C9B96C /* Assets.xcassets */; };
+		00677BD021A4F04300481A2A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00677BCF21A4F04300481A2A /* AppDelegate.swift */; };
+		00677BD221A4F04300481A2A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00677BD121A4F04300481A2A /* ViewController.swift */; };
+		00677BD521A4F04300481A2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00677BD321A4F04300481A2A /* Main.storyboard */; };
+		00677BDA21A4F05300481A2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00677BD821A4F05300481A2A /* LaunchScreen.storyboard */; };
+		00677BE421A5064900481A2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00677BE221A5064900481A2A /* Assets.xcassets */; };
+		00677BE521A5064900481A2A /* begonia.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 00677BE321A5064900481A2A /* begonia.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		001C3EB221A40D590023A1C4 /* begonia.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = begonia.mp4; sourceTree = "<group>"; };
-		00770C5121A3EB9D00C9B96C /* RecognizingImagesToPlayVideo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RecognizingImagesToPlayVideo.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		00770C5421A3EB9D00C9B96C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		00770C5521A3EB9D00C9B96C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		00770C5721A3EB9D00C9B96C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		00770C5821A3EB9D00C9B96C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		00770C5B21A3EB9D00C9B96C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		00770C6021A3EBA700C9B96C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		00770C6221A3EBA700C9B96C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00770C6321A3EBA700C9B96C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		00770C6B21A3EDB800C9B96C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		00677BCC21A4F04300481A2A /* ARKitPlayVideo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARKitPlayVideo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		00677BCF21A4F04300481A2A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		00677BD121A4F04300481A2A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		00677BD421A4F04300481A2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		00677BD921A4F05300481A2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		00677BDB21A4F05300481A2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00677BE221A5064900481A2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		00677BE321A5064900481A2A /* begonia.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = begonia.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		00770C4E21A3EB9D00C9B96C /* Frameworks */ = {
+		00677BC921A4F04300481A2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,43 +37,40 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00770C4821A3EB9C00C9B96C = {
+		00677BC321A4F04300481A2A = {
 			isa = PBXGroup;
 			children = (
-				00770C5321A3EB9D00C9B96C /* RecognizingImagesToPlayVideo */,
-				00770C5221A3EB9D00C9B96C /* Products */,
+				00677BCE21A4F04300481A2A /* ARKitPlayVideo */,
+				00677BCD21A4F04300481A2A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		00770C5221A3EB9D00C9B96C /* Products */ = {
+		00677BCD21A4F04300481A2A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00770C5121A3EB9D00C9B96C /* RecognizingImagesToPlayVideo.app */,
+				00677BCC21A4F04300481A2A /* ARKitPlayVideo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00770C5321A3EB9D00C9B96C /* RecognizingImagesToPlayVideo */ = {
+		00677BCE21A4F04300481A2A /* ARKitPlayVideo */ = {
 			isa = PBXGroup;
 			children = (
-				00770C6A21A3EDB800C9B96C /* Resources */,
-				00770C5421A3EB9D00C9B96C /* AppDelegate.h */,
-				00770C5521A3EB9D00C9B96C /* AppDelegate.m */,
-				00770C5721A3EB9D00C9B96C /* ViewController.h */,
-				00770C5821A3EB9D00C9B96C /* ViewController.m */,
-				00770C5A21A3EB9D00C9B96C /* Main.storyboard */,
-				00770C5F21A3EBA700C9B96C /* LaunchScreen.storyboard */,
-				00770C6221A3EBA700C9B96C /* Info.plist */,
-				00770C6321A3EBA700C9B96C /* main.m */,
+				00677BE121A5064900481A2A /* Resources */,
+				00677BCF21A4F04300481A2A /* AppDelegate.swift */,
+				00677BD121A4F04300481A2A /* ViewController.swift */,
+				00677BD321A4F04300481A2A /* Main.storyboard */,
+				00677BD821A4F05300481A2A /* LaunchScreen.storyboard */,
+				00677BDB21A4F05300481A2A /* Info.plist */,
 			);
-			path = RecognizingImagesToPlayVideo;
+			path = ARKitPlayVideo;
 			sourceTree = "<group>";
 		};
-		00770C6A21A3EDB800C9B96C /* Resources */ = {
+		00677BE121A5064900481A2A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				001C3EB221A40D590023A1C4 /* begonia.mp4 */,
-				00770C6B21A3EDB800C9B96C /* Assets.xcassets */,
+				00677BE221A5064900481A2A /* Assets.xcassets */,
+				00677BE321A5064900481A2A /* begonia.mp4 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -85,38 +78,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00770C5021A3EB9D00C9B96C /* RecognizingImagesToPlayVideo */ = {
+		00677BCB21A4F04300481A2A /* ARKitPlayVideo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00770C6721A3EBA800C9B96C /* Build configuration list for PBXNativeTarget "RecognizingImagesToPlayVideo" */;
+			buildConfigurationList = 00677BDE21A4F05300481A2A /* Build configuration list for PBXNativeTarget "ARKitPlayVideo" */;
 			buildPhases = (
-				00770C4D21A3EB9D00C9B96C /* Sources */,
-				00770C4E21A3EB9D00C9B96C /* Frameworks */,
-				00770C4F21A3EB9D00C9B96C /* Resources */,
+				00677BC821A4F04300481A2A /* Sources */,
+				00677BC921A4F04300481A2A /* Frameworks */,
+				00677BCA21A4F04300481A2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = RecognizingImagesToPlayVideo;
-			productName = RecognizingImagesToPlayVideo;
-			productReference = 00770C5121A3EB9D00C9B96C /* RecognizingImagesToPlayVideo.app */;
+			name = ARKitPlayVideo;
+			productName = ARKitPlayVideo;
+			productReference = 00677BCC21A4F04300481A2A /* ARKitPlayVideo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		00770C4921A3EB9D00C9B96C /* Project object */ = {
+		00677BC421A4F04300481A2A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = mulberry;
 				TargetAttributes = {
-					00770C5021A3EB9D00C9B96C = {
+					00677BCB21A4F04300481A2A = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = 00770C4C21A3EB9D00C9B96C /* Build configuration list for PBXProject "RecognizingImagesToPlayVideo" */;
+			buildConfigurationList = 00677BC721A4F04300481A2A /* Build configuration list for PBXProject "ARKitPlayVideo" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,56 +118,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 00770C4821A3EB9C00C9B96C;
-			productRefGroup = 00770C5221A3EB9D00C9B96C /* Products */;
+			mainGroup = 00677BC321A4F04300481A2A;
+			productRefGroup = 00677BCD21A4F04300481A2A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				00770C5021A3EB9D00C9B96C /* RecognizingImagesToPlayVideo */,
+				00677BCB21A4F04300481A2A /* ARKitPlayVideo */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		00770C4F21A3EB9D00C9B96C /* Resources */ = {
+		00677BCA21A4F04300481A2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00770C6121A3EBA700C9B96C /* LaunchScreen.storyboard in Resources */,
-				00770C6C21A3EDB800C9B96C /* Assets.xcassets in Resources */,
-				00770C5C21A3EB9D00C9B96C /* Main.storyboard in Resources */,
-				001C3EB321A40D5A0023A1C4 /* begonia.mp4 in Resources */,
+				00677BDA21A4F05300481A2A /* LaunchScreen.storyboard in Resources */,
+				00677BE521A5064900481A2A /* begonia.mp4 in Resources */,
+				00677BE421A5064900481A2A /* Assets.xcassets in Resources */,
+				00677BD521A4F04300481A2A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		00770C4D21A3EB9D00C9B96C /* Sources */ = {
+		00677BC821A4F04300481A2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00770C5921A3EB9D00C9B96C /* ViewController.m in Sources */,
-				00770C6421A3EBA700C9B96C /* main.m in Sources */,
-				00770C5621A3EB9D00C9B96C /* AppDelegate.m in Sources */,
+				00677BD221A4F04300481A2A /* ViewController.swift in Sources */,
+				00677BD021A4F04300481A2A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		00770C5A21A3EB9D00C9B96C /* Main.storyboard */ = {
+		00677BD321A4F04300481A2A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				00770C5B21A3EB9D00C9B96C /* Base */,
+				00677BD421A4F04300481A2A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		00770C5F21A3EBA700C9B96C /* LaunchScreen.storyboard */ = {
+		00677BD821A4F05300481A2A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				00770C6021A3EBA700C9B96C /* Base */,
+				00677BD921A4F05300481A2A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -181,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		00770C6521A3EBA800C9B96C /* Debug */ = {
+		00677BDC21A4F05300481A2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -237,10 +230,12 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		00770C6621A3EBA800C9B96C /* Release */ = {
+		00677BDD21A4F05300481A2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -289,40 +284,44 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		00770C6821A3EBA800C9B96C /* Debug */ = {
+		00677BDF21A4F05300481A2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6646M4MT3K;
-				INFOPLIST_FILE = RecognizingImagesToPlayVideo/Info.plist;
+				DEVELOPMENT_TEAM = B3A365563G;
+				INFOPLIST_FILE = ARKitPlayVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mulberry.RecognizingImagesToPlayVideo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mulberry.ARKitPlayVideo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		00770C6921A3EBA800C9B96C /* Release */ = {
+		00677BE021A4F05300481A2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 6646M4MT3K;
-				INFOPLIST_FILE = RecognizingImagesToPlayVideo/Info.plist;
+				DEVELOPMENT_TEAM = B3A365563G;
+				INFOPLIST_FILE = ARKitPlayVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mulberry.RecognizingImagesToPlayVideo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mulberry.ARKitPlayVideo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -330,25 +329,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00770C4C21A3EB9D00C9B96C /* Build configuration list for PBXProject "RecognizingImagesToPlayVideo" */ = {
+		00677BC721A4F04300481A2A /* Build configuration list for PBXProject "ARKitPlayVideo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				00770C6521A3EBA800C9B96C /* Debug */,
-				00770C6621A3EBA800C9B96C /* Release */,
+				00677BDC21A4F05300481A2A /* Debug */,
+				00677BDD21A4F05300481A2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00770C6721A3EBA800C9B96C /* Build configuration list for PBXNativeTarget "RecognizingImagesToPlayVideo" */ = {
+		00677BDE21A4F05300481A2A /* Build configuration list for PBXNativeTarget "ARKitPlayVideo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				00770C6821A3EBA800C9B96C /* Debug */,
-				00770C6921A3EBA800C9B96C /* Release */,
+				00677BDF21A4F05300481A2A /* Debug */,
+				00677BE021A4F05300481A2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 00770C4921A3EB9D00C9B96C /* Project object */;
+	rootObject = 00677BC421A4F04300481A2A /* Project object */;
 }
